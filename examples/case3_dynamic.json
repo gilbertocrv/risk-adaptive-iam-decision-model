@@ -1,0 +1,10 @@
+{
+  "_description": "Case 3 — Standard user, low risk. Dynamic zone, allow.",
+  "user": "user99",
+  "role": "Viewer",
+  "mfa_enabled": true,
+  "last_login_days": 5,
+  "environment": "staging",
+  "target_resource": "reports-dashboard",
+  "framework": ["ISO27001"]
+}

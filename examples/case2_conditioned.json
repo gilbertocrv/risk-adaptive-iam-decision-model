@@ -1,0 +1,10 @@
+{
+  "_description": "Case 2 — Privileged, MFA active, recent login. Conditioned zone.",
+  "user": "dba02",
+  "role": "DB Admin",
+  "mfa_enabled": true,
+  "last_login_days": 10,
+  "environment": "production",
+  "target_resource": "db-cluster-prod",
+  "framework": ["ISO27001"]
+}

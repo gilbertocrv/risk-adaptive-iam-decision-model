@@ -1,0 +1,10 @@
+{
+  "_description": "Case 1 — Privileged admin, no MFA, inactive. Restricted zone.",
+  "user": "admin01",
+  "role": "Global Admin",
+  "mfa_enabled": false,
+  "last_login_days": 45,
+  "environment": "production",
+  "target_resource": "production-admin-portal",
+  "framework": ["ISO27001", "SOX"]
+}
